@@ -4,7 +4,7 @@
   "maintainers": ["humboldtux"],
   "files": {
     "01-introduction": {
-      "1-introduction.asc": 0,
+      "1-introduction.asc": 50,
       "sections/about-caddy.asc": 0,
       "sections/installation.asc": 0,
       "sections/serving-your-first-site.asc": 0,
